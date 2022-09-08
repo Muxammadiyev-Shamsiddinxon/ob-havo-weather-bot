@@ -7,7 +7,7 @@ name = "pypi"
 aiogram = "~=2.14"
 environs = "~=8.0.0"
 requests = "*"
-BeautifulSoup4 ="~=4.11.1"
+beautifulsoup4 = "*"
 asyncpg = "*"
 
 [dev-packages]
