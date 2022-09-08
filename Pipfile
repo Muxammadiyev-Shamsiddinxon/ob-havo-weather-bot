@@ -4,12 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-aiogram = "*"
-environs = "~=8.0.0"
-requests = "*"
-beautifulsoup4 = "*"
-bs4 = "*"
-lxml = "*"
+aiogram = "~=2.22.1"
+environs = "~=9.5.0"
+requests = "~=2.28.1"
+beautifulsoup4 = "~=4.11.1"
+bs4 = "~=0.0.1"
+lxml = "~=4.9.1"
 
 [dev-packages]
 
