@@ -50,8 +50,8 @@ Toshkentmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
     [
-        InlineKeyboardButton(text="Bugun ob havo", callback_data="Toshkent Bugun"),
-        InlineKeyboardButton(text="Haftalik", callback_data="Toshkent Haftalik"),
+        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Toshkent Haftalik"),
+        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Toshkent Namoz Vaqtlari"),
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Toshkentdan tumanlarga qayt"),
@@ -69,8 +69,8 @@ Bekobodmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
     [
-        InlineKeyboardButton(text="Bugun ob havo", callback_data="Bekobod Bugun"),
-        InlineKeyboardButton(text="Haftalik", callback_data="Bekobod Haftalik"),
+        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Bekobod Haftalik"),
+        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Bekobod Namoz Vaqtlari"),
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Bekoboddan tumanlarga qayt"),
@@ -89,8 +89,8 @@ Bukamenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
     [
-        InlineKeyboardButton(text="Bugun ob havo", callback_data="Buka Bugun"),
-        InlineKeyboardButton(text="Haftalik", callback_data="Buka Haftalik"),
+        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Buka Haftalik"),
+        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Buka Namoz Vaqtlari"),
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Bukadan tumanlarga qayt"),
@@ -108,8 +108,8 @@ Bustonliqmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
     [
-        InlineKeyboardButton(text="Bugun ob havo", callback_data="Bustonliq Bugun"),
-        InlineKeyboardButton(text="Haftalik", callback_data="Bustonliq Haftalik"),
+        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Bustonliq Haftalik"),
+        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Bustonliq Namoz Vaqtlari"),
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Bustonliqdan tumanlarga qayt"),
@@ -127,8 +127,8 @@ Zangiotamenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
     [
-        InlineKeyboardButton(text="Bugun ob havo", callback_data="Zangiota Bugun"),
-        InlineKeyboardButton(text="Haftalik", callback_data="Zangiota Haftalik"),
+        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Zangiota Haftalik"),
+        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Zangiota Namoz Vaqtlari"),
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Zangiotadan tumanlarga qayt"),
@@ -146,8 +146,8 @@ Oqqurgonmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
     [
-        InlineKeyboardButton(text="Bugun ob havo", callback_data="Oqqurgon Bugun"),
-        InlineKeyboardButton(text="Haftalik", callback_data="Oqqurgon Haftalik"),
+        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Oqqurgon Haftalik"),
+        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Oqqurgon Namoz Vaqtlari"),
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Oqqurgondan tumanlarga qayt"),
@@ -165,8 +165,8 @@ Ohangaronmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
     [
-        InlineKeyboardButton(text="Bugun ob havo", callback_data="Ohangaron Bugun"),
-        InlineKeyboardButton(text="Haftalik", callback_data="Ohangaron Haftalik"),
+        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Ohangaron Haftalik"),
+        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Ohangaron Namoz Vaqtlari"),
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Ohangarondan tumanlarga qayt"),
@@ -185,8 +185,8 @@ Parkentmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
     [
-        InlineKeyboardButton(text="Bugun ob havo", callback_data="Parkent Bugun"),
-        InlineKeyboardButton(text="Haftalik", callback_data="Parkent Haftalik"),
+        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Parkent Haftalik"),
+        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Parkent Namoz Vaqtlari"),
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Parkentdan tumanlarga qayt"),
@@ -203,8 +203,8 @@ Piskentmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
     [
-        InlineKeyboardButton(text="Bugun ob havo", callback_data="Piskent Bugun"),
-        InlineKeyboardButton(text="Haftalik", callback_data="Piskent Haftalik"),
+        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Piskent Haftalik"),
+        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Piskent Namoz Vaqtlari"),
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Piskentdan tumanlarga qayt"),
@@ -222,8 +222,8 @@ Chinozmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
     [
-        InlineKeyboardButton(text="Bugun ob havo", callback_data="Chinoz Bugun"),
-        InlineKeyboardButton(text="Haftalik", callback_data="Chinoz Haftalik"),
+        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Chinoz Haftalik"),
+        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Chinoz Namoz Vaqtlari"),
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Chinozdan tumanlarga qayt"),
@@ -240,8 +240,8 @@ Yuqorichirchiqmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
     [
-        InlineKeyboardButton(text="Bugun ob havo", callback_data="Yuqorichirchiq Bugun"),
-        InlineKeyboardButton(text="Haftalik", callback_data="Yuqorichirchiq Haftalik"),
+        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Yuqorichirchiq Haftalik"),
+        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Yuqorichirchiq Namoz Vaqtlari"),
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Yuqorichirchiqdan tumanlarga qayt"),
@@ -259,8 +259,8 @@ Yangiyulmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
     [
-        InlineKeyboardButton(text="Bugun ob havo", callback_data="Yangiyul Bugun"),
-        InlineKeyboardButton(text="Haftalik", callback_data="Yangiyul Haftalik"),
+        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Yangiyul Haftalik"),
+        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Yangiyul Namoz Vaqtlari"),
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Yangiyuldan tumanlarga qayt"),
@@ -277,8 +277,8 @@ Urtachirchiqmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
     [
-        InlineKeyboardButton(text="Bugun ob havo", callback_data="Urtachirchiq Bugun"),
-        InlineKeyboardButton(text="Haftalik", callback_data="Urtachirchiq Haftalik"),
+        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Urtachirchiq Haftalik"),
+        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Urtachirchiq Namoz Vaqtlari"),
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Urtachirchiqdan tumanlarga qayt"),
@@ -296,8 +296,8 @@ Qibraymenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
     [
-        InlineKeyboardButton(text="Bugun ob havo", callback_data="Qibray Bugun"),
-        InlineKeyboardButton(text="Haftalik", callback_data="Qibray Haftalik"),
+        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Qibray Haftalik"),
+        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Qibray Namoz Vaqtlari"),
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Qibraydan tumanlarga qayt"),
@@ -315,8 +315,8 @@ Quyichirchiqmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
     [
-        InlineKeyboardButton(text="Bugun ob havo", callback_data="Quyichirchiq Bugun"),
-        InlineKeyboardButton(text="Haftalik", callback_data="Quyichirchiq Haftalik"),
+        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Quyichirchiq Haftalik"),
+        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Quyichirchiq Namoz Vaqtlari"),
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Quyichirchiqdan tumanlarga qayt"),
