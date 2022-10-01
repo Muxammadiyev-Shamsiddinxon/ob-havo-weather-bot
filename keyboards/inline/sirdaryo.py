@@ -38,7 +38,7 @@ Sirdaryomenu= InlineKeyboardMarkup (
     inline_keyboard=[
     [
         InlineKeyboardButton(text="Haftalik ob havo", callback_data="Sirdaryo Haftalik"),
-        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Sirdaryo Namoz Vaqtlari"),
+
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Sirdaryodan tumanlarga qayt"),
@@ -57,7 +57,7 @@ Boyovutmenu= InlineKeyboardMarkup (
     inline_keyboard=[
     [
         InlineKeyboardButton(text="Haftalik ob havo", callback_data="Boyovut Haftalik"),
-        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Boyovut Namoz Vaqtlari"),
+
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Boyovutdan tumanlarga qayt"),
@@ -77,7 +77,7 @@ Gulistonmenu= InlineKeyboardMarkup (
     inline_keyboard=[
     [
         InlineKeyboardButton(text="Haftalik ob havo", callback_data="Guliston Haftalik"),
-        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Guliston Namoz Vaqtlari"),
+
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Gulistondan tumanlarga qayt"),
@@ -95,7 +95,7 @@ Oqoltinmenu= InlineKeyboardMarkup (
     inline_keyboard=[
     [
         InlineKeyboardButton(text="Haftalik ob havo", callback_data="Oqoltin Haftalik"),
-        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Oqoltin Namoz Vaqtlari"),
+
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Oqoltindan tumanlarga qayt"),
@@ -114,7 +114,7 @@ Sardobamenu= InlineKeyboardMarkup (
     inline_keyboard=[
     [
         InlineKeyboardButton(text="Haftalik ob havo", callback_data="Sardoba Haftalik"),
-        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Sardoba Namoz Vaqtlari"),
+
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Sardobadan tumanlarga qayt"),
@@ -133,7 +133,7 @@ Sayxunobodmenu= InlineKeyboardMarkup (
     inline_keyboard=[
     [
         InlineKeyboardButton(text="Haftalik ob havo", callback_data="Sayxunobod Haftalik"),
-        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Sayxunobod Namoz Vaqtlari"),
+
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Sayxunoboddan tumanlarga qayt"),
@@ -152,7 +152,7 @@ Xavosmenu= InlineKeyboardMarkup (
     inline_keyboard=[
     [
         InlineKeyboardButton(text="Haftalik ob havo", callback_data="Xavos Haftalik"),
-        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Xavos Namoz Vaqtlari"),
+
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Xavosdan tumanlarga qayt"),
@@ -172,7 +172,7 @@ Yangiyermenu= InlineKeyboardMarkup (
     inline_keyboard=[
     [
         InlineKeyboardButton(text="Haftalik ob havo", callback_data="Yangiyer Haftalik"),
-        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Yangiyer Namoz Vaqtlari"),
+
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Yangiyerdan tumanlarga qayt"),

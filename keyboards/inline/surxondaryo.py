@@ -49,7 +49,7 @@ Termizmenu= InlineKeyboardMarkup (
     inline_keyboard=[
     [
         InlineKeyboardButton(text="Haftalik ob havo", callback_data="Termiz Haftalik"),
-        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Termiz Namoz Vaqtlari"),
+
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Termizdan tumanlarga qayt"),
@@ -68,7 +68,7 @@ Uzunmenu= InlineKeyboardMarkup (
     inline_keyboard=[
     [
         InlineKeyboardButton(text="Haftalik ob havo", callback_data="Uzun Haftalik"),
-        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Uzun Namoz Vaqtlari"),
+
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Uzundan tumanlarga qayt"),
@@ -88,7 +88,7 @@ Angormenu= InlineKeyboardMarkup (
     inline_keyboard=[
     [
         InlineKeyboardButton(text="Haftalik ob havo", callback_data="Angor Haftalik"),
-        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Angor Namoz Vaqtlari"),
+
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Angordan tumanlarga qayt"),
@@ -107,7 +107,7 @@ Bandixonmenu= InlineKeyboardMarkup (
     inline_keyboard=[
     [
         InlineKeyboardButton(text="Haftalik ob havo", callback_data="Bandixon Haftalik"),
-        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Bandixon Namoz Vaqtlari"),
+
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Bandixondan tumanlarga qayt"),
@@ -126,7 +126,7 @@ Boysunmenu= InlineKeyboardMarkup (
     inline_keyboard=[
     [
         InlineKeyboardButton(text="Haftalik ob havo", callback_data="Boysun Haftalik"),
-        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Boysun Namoz Vaqtlari"),
+
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Boysundan tumanlarga qayt"),
@@ -145,7 +145,7 @@ Denovmenu= InlineKeyboardMarkup (
     inline_keyboard=[
     [
         InlineKeyboardButton(text="Haftalik ob havo", callback_data="Denov Haftalik"),
-        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Denov Namoz Vaqtlari"),
+
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Denovdan tumanlarga qayt"),
@@ -164,7 +164,7 @@ Jarqurgonmenu= InlineKeyboardMarkup (
     inline_keyboard=[
     [
         InlineKeyboardButton(text="Haftalik ob havo", callback_data="Jarqurgon Haftalik"),
-        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Jarqurgon Namoz Vaqtlari"),
+
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Jarqurgondan tumanlarga qayt"),
@@ -184,7 +184,7 @@ Muzrabotmenu= InlineKeyboardMarkup (
     inline_keyboard=[
     [
         InlineKeyboardButton(text="Haftalik ob havo", callback_data="Muzrabot Haftalik"),
-        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Muzrabot Namoz Vaqtlari"),
+
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Muzrabotdan tumanlarga qayt"),
@@ -202,7 +202,7 @@ Oltinsoymenu= InlineKeyboardMarkup (
     inline_keyboard=[
     [
         InlineKeyboardButton(text="Haftalik ob havo", callback_data="Oltinsoy Haftalik"),
-        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Oltinsoy Namoz Vaqtlari"),
+
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Oltinsoydan tumanlarga qayt"),
@@ -221,7 +221,7 @@ Qiziriqmenu= InlineKeyboardMarkup (
     inline_keyboard=[
     [
         InlineKeyboardButton(text="Haftalik ob havo", callback_data="Qiziriq Haftalik"),
-        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Qiziriq Namoz Vaqtlari"),
+
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Qiziriqdan tumanlarga qayt"),
@@ -239,7 +239,7 @@ Qumqurgonmenu= InlineKeyboardMarkup (
     inline_keyboard=[
     [
         InlineKeyboardButton(text="Haftalik ob havo", callback_data="Qumqurgon Haftalik"),
-        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Qumqurgon Namoz Vaqtlari"),
+
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Qumqurgondan tumanlarga qayt"),
@@ -258,7 +258,7 @@ Sariosiyomenu= InlineKeyboardMarkup (
     inline_keyboard=[
     [
         InlineKeyboardButton(text="Haftalik ob havo", callback_data="Sariosiyo Haftalik"),
-        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Sariosiyo Namoz Vaqtlari"),
+
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Sariosiyodan tumanlarga qayt"),
@@ -276,7 +276,7 @@ Sherobodmenu= InlineKeyboardMarkup (
     inline_keyboard=[
     [
         InlineKeyboardButton(text="Haftalik ob havo", callback_data="Sherobod Haftalik"),
-        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Sherobod Namoz Vaqtlari"),
+
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Sheroboddan tumanlarga qayt"),
@@ -295,7 +295,7 @@ Shurchimenu= InlineKeyboardMarkup (
     inline_keyboard=[
     [
         InlineKeyboardButton(text="Haftalik ob havo", callback_data="Shurchi Haftalik"),
-        InlineKeyboardButton(text="Namoz Vaqtlari", callback_data="Shurchi Namoz Vaqtlari"),
+
     ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Shurchidan tumanlarga qayt"),

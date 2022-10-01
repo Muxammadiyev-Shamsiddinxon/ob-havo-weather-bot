@@ -13,7 +13,7 @@ class Database:
         if not parameters:
             parameters = ()
         connection = self.connection
-        connection.set_trace_callback(logger)
+        # connection.set_trace_callback(logger)
         cursor = connection.cursor()
         data = None
         cursor.execute(sql, parameters)
@@ -84,10 +84,10 @@ class Database:
         self.execute("DELETE FROM Users WHERE TRUE", commit=True)
 
 
-def logger(statement):  # Konsolga start bosgan odamni chiqaradigan funksiya
-    print(f"""
-_____________________________________________________
-Executing:
-{statement}
-_____________________________________________________
-""")
+# def logger(statement):  # Konsolga start bosgan odamni chiqaradigan funksiya
+#     print(f"""
+# _____________________________________________________
+# Executing:
+# {statement}
+# _____________________________________________________
+# """)
