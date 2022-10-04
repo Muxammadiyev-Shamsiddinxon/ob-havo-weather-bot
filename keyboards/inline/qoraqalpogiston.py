@@ -49,10 +49,7 @@ qoraqalpoq_tumanlari = InlineKeyboardMarkup (
 Nukusmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Nukus Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Nukusdan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Nukusdan viloyatlarga qayt")
@@ -68,10 +65,7 @@ Nukusmenu= InlineKeyboardMarkup (
 Amudaryomenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Amudaryo Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Amudaryodan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Amudaryodan viloyatlarga qayt")
@@ -88,10 +82,7 @@ Amudaryomenu= InlineKeyboardMarkup (
 Beruniymenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Beruniy Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Beruniydan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Beruniydan viloyatlarga qayt")
@@ -107,10 +98,7 @@ Beruniymenu= InlineKeyboardMarkup (
 Chimboymenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Chimboy Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Chimboydan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Chimboydan viloyatlarga qayt")
@@ -126,10 +114,7 @@ Chimboymenu= InlineKeyboardMarkup (
 Elliktepamenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Elliktepa Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Elliktepadan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Elliktepadan viloyatlarga qayt")
@@ -145,10 +130,7 @@ Elliktepamenu= InlineKeyboardMarkup (
 Kegeylimenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Kegeyli Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Kegeylidan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Kegeylidan viloyatlarga qayt")
@@ -164,10 +146,7 @@ Kegeylimenu= InlineKeyboardMarkup (
 Muynoqmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Muynoq Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Muynoqdan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Muynoqdan viloyatlarga qayt")
@@ -184,10 +163,7 @@ Muynoqmenu= InlineKeyboardMarkup (
 Xujaylimenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Xujayli Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Xujaylidan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Xujaylidan viloyatlarga qayt")
@@ -202,10 +178,7 @@ Xujaylimenu= InlineKeyboardMarkup (
 Qonlikulmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Qonlikul Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Qonlikuldan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Qonlikuldan viloyatlarga qayt")
@@ -221,10 +194,7 @@ Qonlikulmenu= InlineKeyboardMarkup (
 Qorauzaqmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Qorauzaq Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Qorauzaqdan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Qorauzaqdan viloyatlarga qayt")
@@ -239,10 +209,7 @@ Qorauzaqmenu= InlineKeyboardMarkup (
 Qungirotmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Qungirot Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Qungirotdan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Qungirotdan viloyatlarga qayt")
@@ -258,10 +225,7 @@ Qungirotmenu= InlineKeyboardMarkup (
 Shumanaymenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Shumanay Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Shumanaydan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Shumanaydan viloyatlarga qayt")
@@ -276,10 +240,7 @@ Shumanaymenu= InlineKeyboardMarkup (
 Taxiatoshmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Taxiatosh Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Taxiatoshdan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Taxiatoshdan viloyatlarga qayt")
@@ -295,10 +256,7 @@ Taxiatoshmenu= InlineKeyboardMarkup (
 Taxtakupirmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Taxtakupir Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Taxtakupirdan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Taxtakupirdan viloyatlarga qayt")
@@ -314,10 +272,7 @@ Taxtakupirmenu= InlineKeyboardMarkup (
 Turtkulmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Turtkul Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Turtkuldan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Turtkuldan viloyatlarga qayt")

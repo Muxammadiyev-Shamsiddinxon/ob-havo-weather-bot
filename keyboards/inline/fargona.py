@@ -5,7 +5,7 @@ fargona_tumanlari = InlineKeyboardMarkup (
     inline_keyboard=[
     [
 
-        InlineKeyboardButton(text="Farg'ona", callback_data="Fargonashahar"),
+        InlineKeyboardButton(text="Farg'ona", callback_data="Fargona shahar"),
         InlineKeyboardButton(text="Yozyovon", callback_data="Yozyovon")
 
     ],
@@ -53,10 +53,7 @@ fargona_tumanlari = InlineKeyboardMarkup (
 Fargonamenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Fargona Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Fargonadan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Fargonadan viloyatlarga qayt")
@@ -72,10 +69,7 @@ Fargonamenu= InlineKeyboardMarkup (
 Yozyovonmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Yozyovon Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Yozyovondan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Yozyovondan viloyatlarga qayt")
@@ -92,10 +86,7 @@ Yozyovonmenu= InlineKeyboardMarkup (
 Beshariqmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Beshariq Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Beshariqdan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Beshariqdan viloyatlarga qayt")
@@ -111,10 +102,7 @@ Beshariqmenu= InlineKeyboardMarkup (
 Bogdodmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Bogdod Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Bogdoddan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Bogdoddan viloyatlarga qayt")
@@ -130,10 +118,7 @@ Bogdodmenu= InlineKeyboardMarkup (
 Buvaydamenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Buvayda Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Buvaydadan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Buvaydadan viloyatlarga qayt")
@@ -149,10 +134,7 @@ Buvaydamenu= InlineKeyboardMarkup (
 Dangaramenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Dangara Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Dangaradan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Dangaradan viloyatlarga qayt")
@@ -168,10 +150,7 @@ Dangaramenu= InlineKeyboardMarkup (
 Furqatmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Furqat Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Furqatdan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Furqatdan viloyatlarga qayt")
@@ -188,10 +167,7 @@ Furqatmenu= InlineKeyboardMarkup (
 Uzbekistonmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Uzbekiston Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Uzbekistondan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Uzbekistondan viloyatlarga qayt")
@@ -206,10 +182,7 @@ Uzbekistonmenu= InlineKeyboardMarkup (
 Oltiariqmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Oltiariq Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Oltiariqdan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Oltiariqdan viloyatlarga qayt")
@@ -225,10 +198,7 @@ Oltiariqmenu= InlineKeyboardMarkup (
 Quqonmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Quqon Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Quqondan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Quqondan viloyatlarga qayt")
@@ -243,10 +213,7 @@ Quqonmenu= InlineKeyboardMarkup (
 Qushtepamenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Qushtepa Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Qushtepadan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Qushtepadan viloyatlarga qayt")
@@ -262,10 +229,7 @@ Qushtepamenu= InlineKeyboardMarkup (
 Quvamenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Quva Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Quvadan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Quvadan viloyatlarga qayt")
@@ -280,10 +244,7 @@ Quvamenu= InlineKeyboardMarkup (
 Rishtonmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Rishton Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Rishtondan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Rishtondan viloyatlarga qayt")
@@ -299,10 +260,7 @@ Rishtonmenu= InlineKeyboardMarkup (
 Suxmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Sux Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Suxdan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Suxdan viloyatlarga qayt")
@@ -317,10 +275,7 @@ Suxmenu= InlineKeyboardMarkup (
 Toshloqmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Toshloq Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Toshloqdan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Toshloqdan viloyatlarga qayt")
@@ -336,10 +291,7 @@ Toshloqmenu= InlineKeyboardMarkup (
 Uchkuprikmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Uchkuprik Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Uchkuprikdan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Uchkuprikdan viloyatlarga qayt")

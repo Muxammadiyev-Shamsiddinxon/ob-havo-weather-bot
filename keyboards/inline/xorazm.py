@@ -40,10 +40,7 @@ xorazm_tumanlari = InlineKeyboardMarkup (
 Urganchmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Urganch Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Urganchdan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Urganchdan viloyatlarga qayt")
@@ -59,10 +56,7 @@ Urganchmenu= InlineKeyboardMarkup (
 Yangibozormenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Yangibozor Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Yangibozordan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Yangibozordan viloyatlarga qayt")
@@ -79,10 +73,7 @@ Yangibozormenu= InlineKeyboardMarkup (
 Bogotmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Bogot Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Bogotdan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Bogotdan viloyatlarga qayt")
@@ -97,10 +88,7 @@ Bogotmenu= InlineKeyboardMarkup (
 Gurlanmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Gurlan Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Gurlandan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Gurlandan viloyatlarga qayt")
@@ -116,10 +104,7 @@ Gurlanmenu= InlineKeyboardMarkup (
 Qushkupirmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Qushkupir Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Qushkupirdan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Qushkupirdan viloyatlarga qayt")
@@ -135,10 +120,7 @@ Qushkupirmenu= InlineKeyboardMarkup (
 Shovotmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Shovot Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Shovotdan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Shovotdan viloyatlarga qayt")
@@ -154,10 +136,7 @@ Shovotmenu= InlineKeyboardMarkup (
 Xazoraspmenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Xazorasp Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Xazoraspdan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Xazoraspdan viloyatlarga qayt")
@@ -174,10 +153,7 @@ Xazoraspmenu= InlineKeyboardMarkup (
 Xivamenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Xiva Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Xivadan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Xivadan viloyatlarga qayt")
@@ -192,10 +168,7 @@ Xivamenu= InlineKeyboardMarkup (
 Xonqamenu= InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Xonqa Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Xonqadan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Xonqadan viloyatlarga qayt")
@@ -211,10 +184,7 @@ Xonqamenu= InlineKeyboardMarkup (
 Yangiariqmenu = InlineKeyboardMarkup (
 
     inline_keyboard=[
-    [
-        InlineKeyboardButton(text="Haftalik ob havo", callback_data="Yangiariq Haftalik"),
 
-    ],
     [
         InlineKeyboardButton(text="🔙Ortga", callback_data="Yangiariqdan tumanlarga qayt"),
         InlineKeyboardButton(text="🏠Menu", callback_data="Yangiariqdan viloyatlarga qayt")
